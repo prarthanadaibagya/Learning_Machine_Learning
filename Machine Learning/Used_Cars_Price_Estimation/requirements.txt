@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+py3dmol
+streamlit
+reflex
+flask
+statsmodels
+scipy
+sympy
+
