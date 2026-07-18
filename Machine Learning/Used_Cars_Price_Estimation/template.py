@@ -86,8 +86,8 @@ FILES=[
    "requirements.txt",
    "Dockerfile",
    ".dockerignore",
-   "setup.py"
-   "pyproject.toml"
+   "setup.py",
+   "pyproject.toml",
 
    #config files
    "config/model.yaml",
